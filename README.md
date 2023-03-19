@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+My third React App, a temperature controller GUI that changes color based on the temeprature. I built this app starting from the tutorial in https://www.youtube.com/watch?v=V3bhcxpoxQU&t=1056s and then added some more styles on top and implemented an HSL Color wheel to make the temeprature change gradually based on the value on the gauge rather than changing all at once at a specific temperature.
 
 ## Available Scripts
 
